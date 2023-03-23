@@ -1,5 +1,5 @@
 # RIPA-Pathfinding
-Fastest pathfinding algorithm
+Fastest pathfinding algorithm - by Robert Codell
 
 Will find optimal routing (depending how you name the Paths)
 
